@@ -1,0 +1,30 @@
+main {
+    padding: 2% 10%;
+    background-color: #2e2e2e;
+}
+
+main section.slider {
+    padding: 10% 25%;
+    background-size: cover;
+    background-image: url(../img/slid1.jpg);
+}
+
+main section.slider div {
+    color: white;
+}
+
+.batman {
+    padding: 0;
+    border: 50px;
+    background-color: #141314;
+}
+
+.batman div {
+    color: white;
+    padding: 2% 5%;
+    text-align: center;
+}
+
+.batman span {
+    color: rgb(163, 163, 24);
+}
